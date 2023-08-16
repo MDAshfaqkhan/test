@@ -1,1 +1,0 @@
-Name: ASHFAQ KHAN\nSkills: HTML, CSS, JS, nodeJS, Python, SQLite, MongoDB, Bootstrap, ReactJS\nEmail: mohammedashfaqkhan000@gmail.com
